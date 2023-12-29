@@ -1,0 +1,11 @@
+Microsoft Windows [Version 10.0.22621.2283]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\97450>cd C:\Users\97450\OneDrive\Desktop\study notes and commands\hello
+
+C:\Users\97450\OneDrive\Desktop\study notes and commands\hello>hello.py
+  File "C:\Users\97450\OneDrive\Desktop\study notes and commands\hello.py", line 1
+   C:\Users\97450\OneDrive\Desktop\study notes and commands\hello>hello.py
+hello Emmanuel john
+
+C:\Users\97450\OneDrive\Desktop\study notes and commands\hello>
